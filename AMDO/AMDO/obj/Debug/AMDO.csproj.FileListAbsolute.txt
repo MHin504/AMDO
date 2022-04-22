@@ -1,0 +1,16 @@
+C:\Users\MHinze\source\Repos\AMDO\AMDO\bin\Debug\AMDO.exe.config
+C:\Users\MHinze\source\Repos\AMDO\AMDO\bin\Debug\AMDO.exe
+C:\Users\MHinze\source\Repos\AMDO\AMDO\bin\Debug\AMDO.pdb
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.csproj.AssemblyReference.cache
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\MainWindow.g.cs
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\App.g.cs
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO_Content.g.cs
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO_MarkupCompile.cache
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO_MarkupCompile.lref
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\MainWindow.baml
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.g.resources
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.Properties.Resources.resources
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.csproj.GenerateResource.cache
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.csproj.CoreCompileInputs.cache
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.exe
+C:\Users\MHinze\source\Repos\AMDO\AMDO\obj\Debug\AMDO.pdb
